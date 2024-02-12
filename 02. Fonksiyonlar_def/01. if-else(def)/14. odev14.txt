@@ -1,0 +1,4 @@
+1- kullanıcıdan 3 tane sayı gırmesını ısteyınız
+2- gırdıgı 3 sayıdan hangısı daha büyük ise o sayıyı ekrana yazdırsın
+
+NOT: Def fonksiyonunu kullan

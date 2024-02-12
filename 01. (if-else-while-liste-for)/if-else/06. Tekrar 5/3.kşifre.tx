@@ -1,0 +1,8 @@
+Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; 
+değilse “Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız. 
+
+kullanıc adı ve şifre adlı 2 adet değişken ata
+atadığınız bu değişkenlerde (kullanıcı adından) kullanıcı adı isteyınız
+diğer (şifreden) şifre girmesini isteyiniz
+eğer girilen şifre ve kullanıcı adı doğru ise giriş baiarılı
+değilse kullanıcı adı veya şifre hatalı yazdır

@@ -1,0 +1,8 @@
+Girilen plaka kodu 06 ise ekrana Ankara, 07 ise Antalya, 08 ise Artvin, bunların dışında 
+girilen tüm değerlerde ise Türkiye çıktısı veren kodu yazınız.
+
+
+plaka adlı bir değişken atayalım 
+daha sonra şehirlerimizin plaka numaraları nı atayalım
+eger sehirin numarsaı gırıllırse sehrın ısmın yazsın 
+girilmezse turkıye yazsı

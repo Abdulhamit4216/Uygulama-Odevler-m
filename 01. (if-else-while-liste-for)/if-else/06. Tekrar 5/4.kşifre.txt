@@ -1,0 +1,7 @@
+Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; 
+değilse “Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız. 
+
+2 tane random değişken atayalım 
+bu değişkenler den biri kullanıcı adı diğeri şifre istensin
+kullanıcı adı ve şifre doğru ise giriş başarılı
+değilse kullanıcı adı veıya şifre hatalı yazdırsın

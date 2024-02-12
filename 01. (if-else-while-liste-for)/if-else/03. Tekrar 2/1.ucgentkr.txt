@@ -1,0 +1,3 @@
+acı1 acı2 ve acı3 diye 3 tane değişken atayalım
+bu acıların toplamını alım acıların toplamı 180 sen eşit ise bu bir üçgendir
+180 e eşit değilse bu bir üçgen değildir

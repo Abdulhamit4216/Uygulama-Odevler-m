@@ -1,0 +1,8 @@
+
+1- kullanıcıdan 3 tane açı girmesini isteyınız
+2- girdiği açıların hepsi birbirine eşit ise "bu bir eşkenar üçgendir" çıktısını ekrana yazdırsın
+3- girdiği açıların 2 tanesini birbirine eşitse "bu bir ikiz kenar üçgendir" çıktısnı ekrana yazdırsın
+4- girdiği açıların hepsi farklıysa "bu bir eşkenar üçgendir" çıktısnı ekrana yazdırsın
+
+
+NOT:  def fonksiyonunu kullan

@@ -1,0 +1,12 @@
+Kullanıcının girdiği iki ürünün toplam fiyatı 200 TL ve altıysa “Ödenecek miktar=…. TL”; 200 TL’yi geçerse %25 indirim yaparak 
+“Ödenecek miktar, indirimden sonra ….. TL’dir.” çıktılarını veren kodu yazınız.
+
+
+ilk öncelikle değişkenlerini ata 
+fiyat1 fiyat2 ve toplam fiyat diye değişkenleri atadıktan sonra
+toplam fiyat 200 den küçükeşitse    
+ödenecek miktar toplam fiyata eşit olsun
+
+değilse indirim miktarı %25 olacak şekilde yaz 
+ve indirimmli miktarı tooplam fiyattan çıkart 
+ve odenecek mıktar indirmden sonra indirimli fiyat TL dir  yadır

@@ -1,0 +1,7 @@
+1- kullanıcıdan sınemayımı tıyatroyumu tercih ettiği sorulsun
+2- sonrasında kullanıcının öğrenci olup olmadıgı sorulsun
+
+3- kullanıcı sınemayı tercih ederse odemesı gereken miktar 15 tl eğer öğrenciyse %50 indirim yapılsın
+4- kullanıcı tiyatroyu tercih ederse odemesı gereken miktar 10 tl eğer öğrenciyse %50  indirim yapılsın
+
+def kullan

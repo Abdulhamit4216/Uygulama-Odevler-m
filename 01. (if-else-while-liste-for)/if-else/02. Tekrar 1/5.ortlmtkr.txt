@@ -1,0 +1,4 @@
+sınav1 sınav2 ve performans notunzuu gırıız 
+ bu uc notun toplam ortalaması 50 den buyuk ıse basarılı
+ buyuk degıl ise basarısız
+ 

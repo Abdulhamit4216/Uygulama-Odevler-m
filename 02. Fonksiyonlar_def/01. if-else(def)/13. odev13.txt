@@ -1,0 +1,5 @@
+1- kullanıcıdan adını ve aldığı maaşını ve çalıştı yılı isteyiniz.
+2- 0-5 yıl arası çalışanlara %10 
+3- 6-10 yıl arası çalışanlara %15 
+4- 11 ve daha fazla çalışanlara %25 zam yapılsın
+5- en sonda ekrana "Sayın,kullanıcı, zamlı maaşınız,zam,tl "

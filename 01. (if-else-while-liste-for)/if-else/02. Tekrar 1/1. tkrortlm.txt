@@ -1,0 +1,3 @@
+sınav1,sınav2 ve performans notunuzu giriniz 
+girdikten sonra ortalamanız 50 den yuksekse basrılı
+eğer değilse başarısız

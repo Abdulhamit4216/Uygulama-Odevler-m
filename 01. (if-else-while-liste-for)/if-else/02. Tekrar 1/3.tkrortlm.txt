@@ -1,0 +1,5 @@
+sınav1 sınav2  ve performansnotunu giriniz
+
+bu notların toplamı 50 den büyük ise başarılı
+
+büyük değilse başarısız

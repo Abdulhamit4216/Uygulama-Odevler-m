@@ -1,0 +1,5 @@
+-100 (100 dâhil) arasındaki sayılardan 5’e tam bölünenleri while döngüsü ile ekrana yazdırınız. 
+
+sayı diye bir değişken atayalım
+ve while dögüsünü yazalım
+ve her adımda sonrakı sayıya gecıcek

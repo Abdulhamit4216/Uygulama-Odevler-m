@@ -1,0 +1,4 @@
+1- kullanıcıdan otoparkta kaç saat kaldığını al 
+2- otoparkta kaldığı saat 1 saat  ve aşağıysa ekrana "ödenecek tutar 5 tl" yazdırsın
+3- otoparkta kaldığı saat 1-5 saatleri arası ise saat başı 4 tl eklesın
+4- otoparkta kaldığı saat 5 saatten fazlaysa saat başı 3 tl eklesın

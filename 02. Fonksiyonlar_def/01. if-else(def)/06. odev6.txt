@@ -1,0 +1,3 @@
+1- kullanıcıdan birtane sayı girmesini isteyiniz 
+2- girdiği sayı hem 3 hem 15 e tam bölünüyüorsa ekrana "tam bölünür" yazdırsın
+3- bölünmüyorsa ekrana "tam bölünmez" yazdırsın   

@@ -1,0 +1,3 @@
+0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız. 
+
+0 ile 20 arasındaki her bir çift sayıyı ekrana yazdır

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giriş Ekranı</title>
+</head>
+<body>
+
+    <div>
+        <h1>Hoş Geldiniz</h1>
+        <form action="#">
+            <label for="kullaniciAdi">Kullanıcı Adı:</label>
+            <input type="text" id="kullaniciAdi" name="kullaniciAdi" required>
+            <br>
+            <label for="sifre">Şifre:</label>
+            <input type="password" id="sifre" name="sifre" required>
+            <br>
+            <button type="button" onclick="girisYap()">Giriş Yap</button>
+        </form>
+    </div>
+
+    <script>
+        function girisYap() {
+            var kullaniciAdi = document.getElementById("kullaniciAdi").value;
+            var sifre = document.getElementById("sifre").value;
+
+            // Kullanıcı adı ve şifre kontrolü (Örnek: Kullanıcı adı 'admin', şifre '1234')
+            if (kullaniciAdi === 'admin' && sifre === '1234') {
+                alert("Giriş başarılı!");
+                secenekleriGoster();
+            } else {
+                alert("Hatalı kullanıcı adı veya şifre. Programdan çıkılıyor.");
+            }
+        }
+
+        function secenekleriGoster() {
+            var secim = prompt("Ne öğrenmek istersiniz?\n1. Python öğrenmek\n2. Java öğrenmek\n3. HTML öğrenmek");
+
+            if (secim === '1' || secim === '2' || secim === '3') {
+                alert("Bu hizmete şu anda veremiyoruz.");
+            } else {
+                alert("Geçersiz seçim. Programdan çıkılıyor.");
+            }
+        }
+    </script>
+
+</body>
+</html>

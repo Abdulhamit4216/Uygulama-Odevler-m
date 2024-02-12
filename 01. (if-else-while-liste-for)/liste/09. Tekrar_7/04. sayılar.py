@@ -1,0 +1,18 @@
+sayılar = [35, 26, 81, 64]
+sayılar.sort(reverse=True)
+print(sayılar)
+sayılar.reverse()
+print(sayılar)
+print(sayılar.count(26))
+sayılar.remove(81)
+print(sayılar)
+sayılar.clear()
+print(sayılar)
+sayılar.append(26)
+sayılar.append(35)
+sayılar.append(64)
+print(sayılar)
+print(sayılar.index(64))
+ondalık_Sayılar = [1.4,6.8]
+sayılar.extend(ondalık_Sayılar)
+print(sayılar)

@@ -1,0 +1,6 @@
+1. kullanıcıdan bır hava sıcaklıgı girmesini isteyiniz.
+2. girdiği sıcaklık 5 derece ve altındaysa "hava soğuk çıktısını" versin
+3. eğer girdiği sıcaklık 6 derece ve 14 derece arasındaysa "hava ılık" çıktısını versın
+4.  eğer girdiği sıcaklık 15 dereceye eşit veya büyükse "hava soğuk" çıktısını versin
+
+NOT : Def fonksiyonunu kullanarak yaz

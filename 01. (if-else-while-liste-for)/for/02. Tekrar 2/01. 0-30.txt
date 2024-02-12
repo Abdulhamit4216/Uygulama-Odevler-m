@@ -1,0 +1,4 @@
+1-30 arası tek sayıları for döngüsü ile ekrana yazdırınız. 
+
+
+for dögüsünü kullanarak 0 ile 30 arasındaki tek sayıları ekrana yazdırıcam

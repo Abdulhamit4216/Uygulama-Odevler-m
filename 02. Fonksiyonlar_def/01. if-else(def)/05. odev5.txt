@@ -1,0 +1,6 @@
+1. kullanıcıdan Kullanıcı adı iste
+2. sonrasında şifre iste 
+3. eğer kullanıcı adı "TIKI" ve şifre "0382" ise giriş başarılı
+4. ikisinden biri yanlış ise kullanıcı adı veya şifre hatalı
+
+not: DEF Fonksiyonunu kullanarak yaz

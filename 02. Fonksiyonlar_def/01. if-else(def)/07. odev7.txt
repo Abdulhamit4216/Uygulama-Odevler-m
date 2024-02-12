@@ -1,0 +1,4 @@
+1- kullanıcıdan işlemci türü iste
+2- sonrasında kullanıcıdan ram iste
+3- eğer işlemci i7 ve üstü ram de 8 gb ve üstüyse kurulum uygun
+4- değilse kurulum uygun değil

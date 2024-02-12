@@ -1,0 +1,10 @@
+bir hava yolu firması valizlerin ağırlığı 20 kg den az ise ek ücret almıyor
+eğer fazla ise ek ücret alıyor, ve bu el ücret su sekıldedır
+20 kg yı gecen her 1 kg de odemesı gereken ucret 10 artmaktadır
+
+#kg adında bir değişken atayalım 
+#ek_ucret adında bı tane daha değişken atayalım
+#kg (valız agırlıgnı iste)
+#eger kg 20 den buyuk ıse ek ucretı devreye sok
+#ek ucrette 20 kg yı gecen her kg de ücrete 10 ekle
+#eğer geçmezsse ek ücrete gerek yok yaz

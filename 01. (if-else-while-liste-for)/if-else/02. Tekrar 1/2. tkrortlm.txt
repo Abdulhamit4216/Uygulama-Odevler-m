@@ -1,0 +1,3 @@
+sınav1 sınav2 ve performans notunuzu giriniz
+bu notların toplam ortalaması 50 den büyük ise basrılı
+büüyük değilse başarısız

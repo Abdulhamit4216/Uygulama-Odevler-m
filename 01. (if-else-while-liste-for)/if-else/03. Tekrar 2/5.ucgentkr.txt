@@ -1,0 +1,3 @@
+3 tane değişkena tayalım(açı1,açı2,açı3)
+bu değişkenlerın toplamını alıp değişkenlerin toplamı 180 e eşit ise bu bir üçgendir
+değilse bu bir üçgen değildir

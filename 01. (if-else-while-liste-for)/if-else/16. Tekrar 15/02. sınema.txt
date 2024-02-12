@@ -1,0 +1,8 @@
+
+Kullanıcıya sinema ya da tiyatro tercihi sorulsun. Sinema izlemek için 15 TL, tiyatro için 10 TL ödenmesi gerekmedir. 
+Öğrencilere %50 indirim yapıldığı düşünülerek öğrenci ise indirim yapılan; 
+öğrenci değilse indirimsiz tutarı hesaplayarak ekrana yazdıran kodu yazınız.
+
+tercıh adında değişken atayalım bu değişken input kullanarak Kullanıcıya sınema veya tıyatro tercıhılerını sorsun 
+ve sınema ızlemek ıcın 15 tl tıyatro ızlemek için 10 tl odemesı gerekmetedır
+eger ogrencıyse %50 indirim değilse indirimsiz tutar yazıp ekrana yazdırsın

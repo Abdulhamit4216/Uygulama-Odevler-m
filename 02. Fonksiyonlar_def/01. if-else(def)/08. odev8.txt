@@ -1,0 +1,5 @@
+1. kullanıcıdan bir plaka kodu girmesini isteyiniz
+2. girdiği plaka kodu 06 ise ekrana ankara 07 ise ekrana Antalya 08 ise ekrana artvin 
+3. eğer bunların dışında bir değer girilirse ekrana "TÜRKİYE" çıktısını veren kodu yaz
+
+NOT : def Fonksiyonunu kullanarak yaz

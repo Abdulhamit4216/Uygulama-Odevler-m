@@ -1,0 +1,3 @@
+#acı1 acı2 ve acı3 diye 3 tane değişken atayalım
+#atadıktan sonra bu üç acının toplamı 180 e eşit ise (bu bir üçgendir)
+eşit değilse (bu bir üçgen değilidir)

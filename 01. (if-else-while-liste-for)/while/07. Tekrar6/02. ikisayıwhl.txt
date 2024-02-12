@@ -1,0 +1,6 @@
+iki sayı arasındaki sayıların toplamını while dmgüsüyle veren kodu yazınız.
+
+birinci sayııyı girin
+ikinci sayıyı  girin
+
+while dögüsüyüyle aralarındakı sayıların toplamını bulunuz.

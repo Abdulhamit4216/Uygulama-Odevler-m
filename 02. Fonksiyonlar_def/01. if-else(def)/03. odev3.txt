@@ -1,0 +1,4 @@
+1- kullanıcıdan bagajın ağırlığını al 
+2- bagajın ağırlığı 20 kg den düşük ise "herhangi bi ücret ödemenize gerek yok" çıktısını versin
+3- eğer bagajın ağırlığı 20 kg den fazla ise her kg başına 10 tl kes 
+4- en sonda odemesi gereken miktarı ekrana yazdırsın                   

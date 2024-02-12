@@ -1,0 +1,4 @@
+Kullanıcıdan boy (metre cinsinden) ve ağırlık (kilogram cinsinden) bilgilerini al.
+Vücut Kitle İndeksi (VKİ) hesapla.
+VKİ'ye göre kişinin durumunu kontrol et.
+Sonucu ekrana yazdır.

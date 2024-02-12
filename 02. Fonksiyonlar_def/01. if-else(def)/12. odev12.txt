@@ -1,0 +1,8 @@
+1- kullanıcıdan boy ve ağırlık girilmesi istensin
+2- bu değerlere göre VKİ hesaplayınız
+3- VKİ 18 ile 25 aralığındaysa durum normal
+4- VKİ 25 ile 30 aralığındaysa kilolu
+5- VKİ 30 dan fazlaysa obez
+6- VKİ 35 ve daha fazlasıysa ciddi obez
+7- VKİ hesaplayarak kullanıcının durumunu yazınız 
+
